@@ -18,7 +18,7 @@ docker pull ethill/remote_blast:latest
 ### Example remote_blast command:
 
 ```
-decona_remote_blast -g yes
+remote_blast -g yes
 ```
 ### blastR can be retrieved here:
 ```
