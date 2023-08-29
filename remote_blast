@@ -72,6 +72,6 @@ duration=$(( end - start ))
 
 # Politely tells you when it is done
 echo "Remote BLAST has completed"
-echo "BLAST results took $duration to process"
+echo "BLAST results took $duration seconds to process"
 echo "Team Rocket is BLAST-ing off again"
 
